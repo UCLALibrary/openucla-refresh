@@ -288,7 +288,7 @@ body {
       font-size: 1.125rem; } }
 .ou-subpage-event-wrapper {
   flex: 0 0 100%;
-  border: 1px solid #c3d7ee;
+  border: 1px solid rgba(195, 215, 238, 0.7);
   margin-bottom: 2rem;
   padding: 1rem; }
   .ou-subpage-event-wrapper a {

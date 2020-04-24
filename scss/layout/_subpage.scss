@@ -60,8 +60,9 @@
 
 .ou-subpage-event-wrapper {
   flex: 0 0 100%;
+  border: 1px solid $ucla-lightest-blue;
   margin-bottom: 2rem;
-
+  padding: 1rem;
   a {
     @include plain-link;
   }
